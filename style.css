@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#container{
+    padding: 100px;
+}
+#container a{
+    text-decoration: none;
+}
+#txtHint span {
+    cursor: pointer;
+    margin-bottom: 5px;
+    display: block;
+}
